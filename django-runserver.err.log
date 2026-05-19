@@ -1,0 +1,32 @@
+Watching for file changes with StatReloader
+[19/May/2026 16:38:38] "GET /projects/list/ HTTP/1.1" 200 11176
+[19/May/2026 16:38:38,233] - Broken pipe from ('127.0.0.1', 53341)
+[19/May/2026 16:38:43] "GET /users/skills/?q=D HTTP/1.1" 200 29
+[19/May/2026 16:38:43,784] - Broken pipe from ('127.0.0.1', 53361)
+[19/May/2026 16:38:49] "GET /users/list/?skill=Django HTTP/1.1" 200 8418
+[19/May/2026 16:38:49,274] - Broken pipe from ('127.0.0.1', 53372)
+C:\Users\aleks\OneDrive\Desktop\team-finder-ad-main-3\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\aleks\OneDrive\Desktop\team-finder-ad-main-3\users\migrations\0003_user_manager_phone_nullable.py changed, reloading.
+Watching for file changes with StatReloader
+[19/May/2026 16:39:39] "GET /projects/list/ HTTP/1.1" 200 11176
+[19/May/2026 16:39:39] "GET /users/skills/?q=D HTTP/1.1" 200 29
+[19/May/2026 16:39:39,371] - Broken pipe from ('127.0.0.1', 53433)
+[19/May/2026 16:39:39,427] - Broken pipe from ('127.0.0.1', 53432)
+[19/May/2026 16:44:29] "GET / HTTP/1.1" 302 0
+[19/May/2026 16:44:29] "GET / HTTP/1.1" 302 0
+[19/May/2026 16:44:29] "GET /projects/list/ HTTP/1.1" 200 11176
+[19/May/2026 16:44:29] "GET /projects/list/ HTTP/1.1" 200 11176
+[19/May/2026 16:44:29] "GET /static/css/base.css HTTP/1.1" 200 1539
+[19/May/2026 16:44:29] "GET /static/css/header.css HTTP/1.1" 200 2530
+[19/May/2026 16:44:29] "GET /static/css/base.css HTTP/1.1" 200 1539
+[19/May/2026 16:44:29] "GET /media/avatars/boris.png HTTP/1.1" 200 1991
+[19/May/2026 16:44:29] "GET /media/avatars/clara.png HTTP/1.1" 200 2787
+[19/May/2026 16:44:29] "GET /static/css/project_list.css HTTP/1.1" 200 3955
+[19/May/2026 16:44:29] "GET /static/css/header.css HTTP/1.1" 200 2530
+[19/May/2026 16:44:30] "GET /static/js/utils.js HTTP/1.1" 200 2196
+[19/May/2026 16:44:30] "GET /media/avatars/alice.png HTTP/1.1" 200 2280
+[19/May/2026 16:44:30] "GET /static/js/header.js HTTP/1.1" 200 925
+[19/May/2026 16:44:30] "GET /static/js/skills.js HTTP/1.1" 200 4108
+[19/May/2026 16:44:30] "GET /static/js/projects.js HTTP/1.1" 200 4560
+[19/May/2026 16:44:30] "GET /static/js/share.js HTTP/1.1" 200 1633
